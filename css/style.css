@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.hero {
+  background-image: linear-gradient(
+      rgba(0,0,0,0.6),
+      rgba(0,0,0,0.6)
+    ),
+    url("https://upload.wikimedia.org/wikipedia/commons/3/3a/Russell_Westbrook.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
